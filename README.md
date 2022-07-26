@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Anup Pokharel 😃
 - 👀 I’m interested in ⚽, 🍗, 🎮, 🍻, 🏕, 📽, 🏍.
-- 🌱 I’m currently learning, learning alot.
-- 💻 Learning HTML, CSS, JS, PHP, jQuery, AJAX but I see my self onto MERN Stack in future.
-- 💞️ I’m looking to collaborate with people who are interested in JS, ReactJS, Node.js and who are beginners cause as of 2022/19/04 I am a beginner.
-- 📫 How to reach me? G-Mail: anup.pokharel30@gmail.com
+- 🌱 Journey started since 2022/19/04.
+- 💻 Learning Pug, Node.JS, mongoDB, Mongoose, Express.
+- 💞️ I’m looking to collaborate with people who are interested in Node.JS, ReactJS.
 
 <!---
 anuppokharel/anuppokharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
