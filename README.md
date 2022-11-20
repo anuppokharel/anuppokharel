@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anup Pokharel 😃
 - 👀 I’m interested in ⚽, 🍗, 🎮, 🍻, 🏕, 📽, 🏍.
 - 🌱 Journey started since 2022/19/04.
-- 💻 Learning Pug, Node.JS, mongoDB, Mongoose, Express.
+- 💻 Learning.
 - 💞️ I’m looking to collaborate with people who are interested in Node.JS, ReactJS.
 
 <!---
